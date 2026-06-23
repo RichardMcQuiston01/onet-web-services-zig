@@ -1,0 +1,34 @@
+{
+  "table_id": "abilities",
+  "title": "Abilities",
+  "rows": "https://services.onetcenter.org/ws/database/rows/abilities",
+  "description": "Enduring attributes of the individual that influence performance.",
+  "data_dictionary": "https://www.onetcenter.org/dictionary/29.3/excel/abilities.xlsx",
+  "download": {
+    "excel": "https://services.onetcenter.org/ws/database/rows/abilities?format=excel",
+    "text": "https://services.onetcenter.org/ws/database/rows/abilities?format=text"
+  },
+  "column": [
+    {
+      "column_id": "onetsoc_code",
+      "title": "O*NET-SOC Code",
+      "optional": false,
+      "type": "text",
+      "description": "The 8-digit O*NET-SOC occupation code."
+    },
+    {
+      "column_id": "element_id",
+      "title": "Element ID",
+      "optional": false,
+      "type": "text",
+      "description": "The O*NET element identifier."
+    },
+    {
+      "column_id": "data_value",
+      "title": "Data Value",
+      "optional": true,
+      "type": "number",
+      "description": "The numeric data value."
+    }
+  ]
+}

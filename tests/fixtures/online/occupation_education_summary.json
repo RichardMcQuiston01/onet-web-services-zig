@@ -1,0 +1,7 @@
+{
+  "response": [
+    { "code": 6, "title": "Bachelor's degree", "percentage_of_respondents": 59 },
+    { "code": 7, "title": "Post-baccalaureate certificate", "percentage_of_respondents": 5 },
+    { "code": 8, "title": "Master's degree", "percentage_of_respondents": 26 }
+  ]
+}

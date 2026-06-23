@@ -1,0 +1,15 @@
+[
+  {
+    "table_id": "abilities",
+    "title": "Abilities",
+    "info": "https://services.onetcenter.org/ws/database/info/abilities",
+    "rows": "https://services.onetcenter.org/ws/database/rows/abilities",
+    "description": "Enduring attributes of the individual that influence performance."
+  },
+  {
+    "table_id": "education_training_experience",
+    "title": "Education, Training, and Experience",
+    "info": "https://services.onetcenter.org/ws/database/info/education_training_experience",
+    "rows": "https://services.onetcenter.org/ws/database/rows/education_training_experience"
+  }
+]

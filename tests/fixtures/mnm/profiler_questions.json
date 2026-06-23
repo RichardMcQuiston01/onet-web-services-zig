@@ -1,0 +1,17 @@
+{
+  "start": 1,
+  "end": 10,
+  "total": 60,
+  "next": "https://services.onetcenter.org/ws/mnm/interestprofiler/questions?start=11&end=20",
+  "answer_option": [
+    { "value": 1, "name": "Strongly Dislike" },
+    { "value": 2, "name": "Dislike" },
+    { "value": 3, "name": "Unsure" },
+    { "value": 4, "name": "Like" },
+    { "value": 5, "name": "Strongly Like" }
+  ],
+  "question": [
+    { "index": 1, "area": "Realistic", "text": "Build kitchen cabinets" },
+    { "index": 2, "area": "Investigative", "text": "Study the structure of the human brain" }
+  ]
+}

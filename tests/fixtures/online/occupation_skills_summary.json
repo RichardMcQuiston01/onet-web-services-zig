@@ -1,0 +1,20 @@
+{
+  "start": 1,
+  "end": 5,
+  "total": 35,
+  "next": "https://services.onetcenter.org/ws/online/occupations/17-2051.00/summary/skills?start=6&end=10",
+  "element": [
+    {
+      "id": "2.B.1.a",
+      "related": "https://services.onetcenter.org/ws/online/onet_data/skills/2.B.1.a",
+      "name": "Reading Comprehension",
+      "description": "Understanding written sentences and paragraphs in work-related documents."
+    },
+    {
+      "id": "2.B.1.b",
+      "related": "https://services.onetcenter.org/ws/online/onet_data/skills/2.B.1.b",
+      "name": "Active Listening",
+      "description": "Giving full attention to what other people are saying."
+    }
+  ]
+}

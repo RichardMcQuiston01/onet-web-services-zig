@@ -1,0 +1,10 @@
+{
+  "code": "15-1141.00",
+  "title": "Database Administrators and Architects",
+  "description": "Administer, test, and implement computer databases.",
+  "occupation": [
+    { "code": "15-1141.00", "title": "Database Administrators" },
+    { "code": "15-1141.01", "title": "Database Administrators" },
+    { "code": "15-1141.02", "title": "Database Architects" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "social": [
+    {
+      "code": "social_perceptiveness",
+      "title": "Social Perceptiveness",
+      "description": "Being aware of others' reactions.",
+      "example": [
+        { "level": 3, "description": "Notice when a coworker seems upset." },
+        { "level": 5, "description": "Accurately predict how policy changes will affect staff." }
+      ]
+    }
+  ],
+  "thinking": [
+    {
+      "code": "critical_thinking",
+      "title": "Critical Thinking",
+      "description": "Using logic and reasoning to identify the strengths and weaknesses of solutions.",
+      "example": [
+        { "level": 3, "description": "Evaluate two job offers." },
+        { "level": 5, "description": "Develop a new business strategy." }
+      ]
+    }
+  ]
+}

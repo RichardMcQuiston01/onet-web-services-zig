@@ -1,0 +1,28 @@
+{
+  "code": "17-2051.00",
+  "title": "Civil Engineers",
+  "tags": { "bright_outlook": false, "green": false, "apprenticeship": false },
+  "description": "Perform engineering duties in planning, designing, and overseeing construction and maintenance of building structures and facilities.",
+  "sample_of_reported_titles": [
+    "Bridge Engineer",
+    "Civil Engineer",
+    "Project Engineer",
+    "Structural Engineer"
+  ],
+  "also_see": [],
+  "bright_outlook": [],
+  "updated": {
+    "year": 2024,
+    "contents": [
+      { "title": "Tasks", "source": "O*NET Data Collection Program", "year": 2023 }
+    ]
+  },
+  "summary_contents": [
+    { "href": "https://services.onetcenter.org/ws/online/occupations/17-2051.00/summary/tasks", "title": "Tasks" },
+    { "href": "https://services.onetcenter.org/ws/online/occupations/17-2051.00/summary/skills", "title": "Skills" }
+  ],
+  "details_contents": [
+    { "href": "https://services.onetcenter.org/ws/online/occupations/17-2051.00/details/tasks", "title": "Tasks" }
+  ],
+  "custom_contents": []
+}

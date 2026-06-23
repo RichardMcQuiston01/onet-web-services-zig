@@ -1,0 +1,17 @@
+[
+  {
+    "id": "engineering_technology",
+    "name": "Engineering and Technology",
+    "element": [
+      { "id": "2.C.3.a", "name": "Computers and Electronics" },
+      { "id": "2.C.3.b", "name": "Engineering and Technology" }
+    ]
+  },
+  {
+    "id": "math_science",
+    "name": "Math and Science",
+    "element": [
+      { "id": "2.C.4.a", "name": "Mathematics" }
+    ]
+  }
+]

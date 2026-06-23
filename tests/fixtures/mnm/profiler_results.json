@@ -1,0 +1,17 @@
+{
+  "result": [
+    {
+      "href": "https://services.onetcenter.org/ws/mnm/careers/17-2061.00/",
+      "code": "17-2061.00",
+      "title": "Computer Hardware Engineers",
+      "description": "Research, design, develop, or test computer or computer-related equipment.",
+      "score": 42
+    },
+    {
+      "href": "https://services.onetcenter.org/ws/mnm/careers/15-1252.00/",
+      "code": "15-1252.00",
+      "title": "Software Developers",
+      "score": 38
+    }
+  ]
+}

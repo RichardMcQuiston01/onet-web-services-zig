@@ -1,0 +1,26 @@
+{
+  "start": 1,
+  "end": 3,
+  "total": 63,
+  "next": "https://services.onetcenter.org/ws/online/search?keyword=engineer&start=4&end=6",
+  "occupation": [
+    {
+      "href": "https://services.onetcenter.org/ws/online/occupations/17-2051.00/",
+      "code": "17-2051.00",
+      "title": "Civil Engineers",
+      "tags": { "bright_outlook": false, "green": false, "apprenticeship": false }
+    },
+    {
+      "href": "https://services.onetcenter.org/ws/online/occupations/17-2041.00/",
+      "code": "17-2041.00",
+      "title": "Chemical Engineers",
+      "tags": { "bright_outlook": false, "green": false, "apprenticeship": false }
+    },
+    {
+      "href": "https://services.onetcenter.org/ws/online/occupations/17-2061.00/",
+      "code": "17-2061.00",
+      "title": "Computer Hardware Engineers",
+      "tags": { "bright_outlook": true, "green": false, "apprenticeship": false }
+    }
+  ]
+}
