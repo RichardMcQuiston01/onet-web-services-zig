@@ -128,6 +128,9 @@ const result = client.online.searchOccupations(allocator, params, &detail) catch
 zig build          # compile the library
 zig build test     # run all tests
 ```
+## Support
+
+If this library saved you some reverse-engineering, consider [buying me a coffee](https://donate.stripe.com/00w5kD3Gj1Xo9v7gVOcs800). ☕
 
 ## API Reference
 
